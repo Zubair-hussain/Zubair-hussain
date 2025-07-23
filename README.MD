@@ -65,7 +65,7 @@ Currently pursuing a degree in Information Technology, I spend my time building 
 
 ---
 
-## Profile Views
 
-```md
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=Zubair-hussain&label=Profile+Views&color=0e75b6&style=flat)
