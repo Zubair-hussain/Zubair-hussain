@@ -102,7 +102,8 @@ My journey spans **frontend web**, **cross-platform mobile apps**, and **AI/ML p
 
 ##  Contribution Activity
 
-![GitHub Snake Light](https://github.com/Zubair-hussain/Zubair-hussain/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Zubair-hussain/Zubair-hussain/output/github-contribution-grid-snake.svg)
+
 
 ---
 
