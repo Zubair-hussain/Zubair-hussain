@@ -27,29 +27,7 @@
 </td>
 <td width="50%" valign="top">
 
-```yaml
-zubair@github:~$ whoami
-
-Now     Full Stack Developer · AI Engineer
-Prev    Freelancer @ Upwork · Fiverr · LinkedIn
-Also    Co-founder @ Xovato Digital Agency
-Intern  xis.ai — Software Development Dept
-Edu     B.Tech / BS IT, In Progress
-
-── Stack ──────────────────────────
-Frontend   React, Next.js, TypeScript, Tailwind
-Backend    Node.js, Django, FastAPI
-AI / ML    LangChain, OpenAI API, Scikit-learn
-DevOps     Docker, Firebase, Git
-
-── Highlights ─────────────────────
-• 35+ public repos across web, AI & mobile
-• Kaggle top 10% — multiple competitions
-• Built full text-to-image AI pipeline
-• Shipped real client projects on Upwork & Fiverr
-
-zubair@github:~$ _
-```
+<img src="./assets/terminal.svg" width="100%" />
 
 </td>
 </tr>
