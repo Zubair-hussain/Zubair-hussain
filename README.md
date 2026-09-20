@@ -99,11 +99,11 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
+- [Upwork_demo-](https://github.com/Zubair-hussain/Upwork_demo-) - No description yet
 - [Leadgen_project-](https://github.com/Zubair-hussain/Leadgen_project-) - Open-source (MIT) B2B lead generation platform. Find high-intent prospects across Reddit, X & Google Maps, run an optional Apify deep-crawl, verify emails (syntax + MX), and score deliverability (SPF/DMARC/DKIM). Includes n8n automation, a Leads Hub with CSV export & JWT auth. Built with Next.js 15, React 19, Django 5, Celery, PostgreSQL Docker `JavaScript` Stars: 1
 - [HTML-TO-DESIGN-](https://github.com/Zubair-hussain/HTML-TO-DESIGN-) - Rework the conversion core to resolve the full CSS cascade (style blocks, class/ID selectors, specificity, inheritance, external stylesheets) and add Framer as a first-class output target alongside Figma from a shared design tree. Includes premium token library, CI/CD `TypeScript` Stars: 1
 - [Xovato-cpu-ai-studio](https://github.com/Zubair-hussain/Xovato-cpu-ai-studio) - Adds deploy-ready FastAPI backend package with CPU model layout, docs, env examples, and tests. `Python` Stars: 2
 - [AI-Powered-Quiz-and-Assessment-Platform](https://github.com/Zubair-hussain/AI-Powered-Quiz-and-Assessment-Platform) - Wayground is a full-stack AI-powered quiz platform where teachers can create and manage quizzes, generate questions with AI, and track student results. Students can browse quizzes, take timed assessments, review their answers, and see their score history. `JavaScript` Stars: 1
-- [GestureCam-Studio](https://github.com/Zubair-hussain/GestureCam-Studio) - GestureCam Studio is a Python-based hand gesture camera system using OpenCV and MediaPipe. It supports live hand tracking, gesture detection, skeleton landmarks, air writing, puzzle mode, FPS monitoring, and phone camera streaming through a web interface. `Python` Stars: 1
 <!--END_SECTION:repos-->
 
 <div align="center">
