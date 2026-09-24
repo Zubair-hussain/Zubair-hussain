@@ -99,11 +99,11 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
+- [Coffie-Demo-](https://github.com/Zubair-hussain/Coffie-Demo-) - No description yet `HTML`
 - [Upwork_demo-](https://github.com/Zubair-hussain/Upwork_demo-) - A Next.js + TypeScript demo platform that simulates an Upwork-style hiring flow for testing expert candidates. Candidates build a profile, spend a limited pool of Connects to apply to jobs with bids, cover letters, and milestone details, while a protected admin dashboard shows every candidate's applications in real time with fit scoring. `HTML`
 - [Leadgen_project-](https://github.com/Zubair-hussain/Leadgen_project-) - Open-source (MIT) B2B lead generation platform. Find high-intent prospects across Reddit, X & Google Maps, run an optional Apify deep-crawl, verify emails (syntax + MX), and score deliverability (SPF/DMARC/DKIM). Includes n8n automation, a Leads Hub with CSV export & JWT auth. Built with Next.js 15, React 19, Django 5, Celery, PostgreSQL Docker `JavaScript` Stars: 1
 - [HTML-TO-DESIGN-](https://github.com/Zubair-hussain/HTML-TO-DESIGN-) - Rework the conversion core to resolve the full CSS cascade (style blocks, class/ID selectors, specificity, inheritance, external stylesheets) and add Framer as a first-class output target alongside Figma from a shared design tree. Includes premium token library, CI/CD `TypeScript` Stars: 1
 - [Xovato-cpu-ai-studio](https://github.com/Zubair-hussain/Xovato-cpu-ai-studio) - Adds deploy-ready FastAPI backend package with CPU model layout, docs, env examples, and tests. `Python` Stars: 2
-- [AI-Powered-Quiz-and-Assessment-Platform](https://github.com/Zubair-hussain/AI-Powered-Quiz-and-Assessment-Platform) - Wayground is a full-stack AI-powered quiz platform where teachers can create and manage quizzes, generate questions with AI, and track student results. Students can browse quizzes, take timed assessments, review their answers, and see their score history. `JavaScript` Stars: 1
 <!--END_SECTION:repos-->
 
 <div align="center">
