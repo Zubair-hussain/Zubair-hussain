@@ -99,7 +99,7 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
-- [Time-portal-](https://github.com/Zubair-hussain/Time-portal-) - No description yet `HTML`
+- [Time-portal-](https://github.com/Zubair-hussain/Time-portal-) - No description yet `HTML` Stars: 1
 - [Coffie-Demo-](https://github.com/Zubair-hussain/Coffie-Demo-) - No description yet `HTML`
 - [Upwork_demo-](https://github.com/Zubair-hussain/Upwork_demo-) - A Next.js + TypeScript demo platform that simulates an Upwork-style hiring flow for testing expert candidates. Candidates build a profile, spend a limited pool of Connects to apply to jobs with bids, cover letters, and milestone details, while a protected admin dashboard shows every candidate's applications in real time with fit scoring. `HTML`
 - [Leadgen_project-](https://github.com/Zubair-hussain/Leadgen_project-) - Open-source (MIT) B2B lead generation platform. Find high-intent prospects across Reddit, X & Google Maps, run an optional Apify deep-crawl, verify emails (syntax + MX), and score deliverability (SPF/DMARC/DKIM). Includes n8n automation, a Leads Hub with CSV export & JWT auth. Built with Next.js 15, React 19, Django 5, Celery, PostgreSQL Docker `JavaScript` Stars: 1
