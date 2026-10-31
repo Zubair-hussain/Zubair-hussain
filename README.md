@@ -99,11 +99,11 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
+- [Calendly_Alternative](https://github.com/Zubair-hussain/Calendly_Alternative) - Free, open-source, self-hosted Calendly alternative with an interactive clock picker, live Google Calendar availability and automatic Google Meet invites. Python on Vercel. `Rust`
 - [Mime_Duet](https://github.com/Zubair-hussain/Mime_Duet) - No description yet `Python`
 - [Friver-Skills-](https://github.com/Zubair-hussain/Friver-Skills-) - No description yet `Python`
 - [Time-portal-](https://github.com/Zubair-hussain/Time-portal-) - No description yet `HTML` Stars: 2
 - [Coffie-Demo-](https://github.com/Zubair-hussain/Coffie-Demo-) - No description yet `HTML` Stars: 1
-- [Upwork_demo-](https://github.com/Zubair-hussain/Upwork_demo-) - A Next.js + TypeScript demo platform that simulates an Upwork-style hiring flow for testing expert candidates. Candidates build a profile, spend a limited pool of Connects to apply to jobs with bids, cover letters, and milestone details, while a protected admin dashboard shows every candidate's applications in real time with fit scoring. `HTML`
 <!--END_SECTION:repos-->
 
 <div align="center">
