@@ -1,18 +1,17 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zubair%20Hussain%20Shah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Freelancer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Zubair%20Hussain%20Shah&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Freelancer&descAlignY=60&descSize=18" alt="Zubair Hussain Shah, Full Stack Developer and AI Engineer" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Building+Full+Stack+%26+AI-Powered+Products;Freelancing+on+Upwork+%7C+Fiverr+%7C+LinkedIn;Turning+Ideas+into+Scalable+Reality;Open+to+Exciting+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=760&lines=I+build+Full+Stack+%26+AI-Powered+Web+Apps;React+%7C+Next.js+%7C+Node.js+%7C+Python;Hire+me+on+Upwork+%7C+Fiverr+%7C+LinkedIn;Replies+fast.+Ships+on+time.+Open+for+new+projects+%F0%9F%9A%80)](https://zubair-hussain-portfolio.detroonshah.workers.dev/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zubair-hussain&label=Profile%20Views&color=6C63FF&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Zubair-hussain?label=Followers&style=for-the-badge&color=6C63FF&logo=github&logoColor=white)
 ![Last Commit](https://img.shields.io/github/last-commit/Zubair-hussain/Zubair-hussain?label=Last%20Updated&style=for-the-badge&color=6C63FF)
+![Status](https://img.shields.io/badge/Status-Available_for_Hire-00C853?style=for-the-badge)
+
+### 👉 [**See my live portfolio**](https://zubair-hussain-portfolio.detroonshah.workers.dev/) &nbsp;·&nbsp; [**Hire me by email**](mailto:thezubairh@gmail.com?subject=Project%20Inquiry%20-%20Hiring%20Zubair&body=Hi%20Zubair%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AProject%3A%20%0ATimeline%3A%20%0ABudget%3A%20%0A%0AThanks%21)
 
 </div>
 
@@ -43,8 +42,8 @@
 [![Hire Me](https://img.shields.io/badge/🤝_HIRE_ME-Let's_Talk-00C853?style=for-the-badge&logoColor=white)](mailto:thezubairh@gmail.com?subject=Project%20Inquiry%20-%20Hiring%20Zubair&body=Hi%20Zubair%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AProject%3A%20%0ATimeline%3A%20%0ABudget%3A%20%0A%0AThanks%21)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge)](https://zubair-hussain-portfolio.detroonshah.workers.dev/)
 [![Blog](https://img.shields.io/badge/✍️_Blog-Read-FF9800?style=for-the-badge&logo=blogger&logoColor=white)](https://zubair-xovato.blogspot.com/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-zubair-hussain-shah-491294376)
 [![Email](https://img.shields.io/badge/📧_Email-thezubairh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thezubairh@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zubair-hussain)
 [![Instagram](https://img.shields.io/badge/📷_Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/detro_onshah)
 
 </div>
@@ -54,10 +53,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="./assets/ascii_output.gif" width="100%" />
+<img src="./assets/ascii_output.gif" width="100%" alt="Animated ASCII portrait" />
 </td>
 <td width="50%" valign="top">
-<img src="./assets/terminal.svg" width="100%" />
+<img src="./assets/terminal.svg" width="100%" alt="Animated terminal introduction" />
 </td>
 </tr>
 </table>
@@ -66,15 +65,34 @@
 
 ## 🧠 Who Am I?
 
-> *A Full Stack + AI developer who turns ideas into polished, production-ready products, and has done it for real clients across global freelancing platforms.*
+> *A Full Stack and AI developer who turns ideas into polished, production-ready products, for real clients on global freelancing platforms.*
 
 - 🎓 **Information Technology** undergraduate, always learning, always building
-- 💼 **Active Freelancer** on **Upwork · Fiverr · LinkedIn**, delivering real value to real clients
-- 🤖 Built **AI-powered apps** including Text-to-Image generators and ML prediction systems
-- 📊 Completed an **AI Engineering Internship** with hands-on data analysis and ML pipelines
-- 🔭 Currently focused on **Full Stack + AI**, where good UX meets intelligent systems
+- 💼 **Active Freelancer** on **Upwork · Fiverr · LinkedIn**
+- 🤖 Built **AI-powered apps**: text-to-image generation, ML prediction systems, AI quiz platforms
+- 📊 Completed an **AI Engineering Internship** (data analysis, ML pipelines)
 - ✍️ I write about what I build on my [blog](https://zubair-xovato.blogspot.com/)
 - 🌍 Goal: work in a **global tech environment** solving real problems at scale
+
+---
+
+## 💡 What I Can Build For You
+
+<div align="center">
+
+| 🚀 Service | ✅ What you get | 🛠 Built with |
+|:---|:---|:---|
+| **Business websites and web apps** | Fast, responsive, SEO-ready sites that turn visitors into customers | Next.js, React, Tailwind CSS |
+| **Full stack products (MVPs to production)** | Auth, dashboards, APIs, databases and deployment, end to end | Node.js, Firebase, Cloudflare |
+| **AI features and automation** | Chatbots, image generation, smart assistants, workflow automation | Python, LLM APIs, scikit-learn |
+| **Data analysis and ML models** | Clean data, clear charts, working prediction models | Pandas, NumPy, Jupyter |
+| **Mobile apps** | Cross-platform apps with a clean UI | React Native |
+
+**How it works:** &nbsp; 1️⃣ Send your idea &nbsp;→&nbsp; 2️⃣ Get a clear scope and quote &nbsp;→&nbsp; 3️⃣ Regular updates &nbsp;→&nbsp; 4️⃣ Delivery and support
+
+[![Start a project](https://img.shields.io/badge/🤝_START_A_PROJECT-Free_Consultation-00C853?style=for-the-badge)](mailto:thezubairh@gmail.com?subject=Project%20Inquiry%20-%20Hiring%20Zubair&body=Hi%20Zubair%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AProject%3A%20%0ATimeline%3A%20%0ABudget%3A%20%0A%0AThanks%21)
+
+</div>
 
 ---
 
@@ -147,36 +165,20 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend & Mobile
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,firebase,cloudflare,python,git,github,figma,vscode&perline=8" alt="Tech stack icons" />
 
-### ⚙️ Backend & DevOps
+<br/><br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### 🤖 AI / Data Science
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
@@ -186,14 +188,17 @@
 
 | 🔥 Project | 📝 Description | 🛠 Stack | 🔗 Link |
 |:---|:---|:---|:---:|
+| **AI Powered Quiz and Assessment Platform** | Full stack quiz platform with AI question generation | Full Stack, AI | [View](https://github.com/Zubair-hussain/AI-Powered-Quiz-and-Assessment-Platform) |
+| **Xovato CPU AI Studio** | Deploy-ready FastAPI backend with CPU model layout | Python, FastAPI | [View](https://github.com/Zubair-hussain/Xovato-cpu-ai-studio) |
+| **GestureCam Studio** | Hand gesture camera system using OpenCV and MediaPipe | Python, OpenCV | [View](https://github.com/Zubair-hussain/GestureCam-Studio) |
 | **Text-To-Image Generator** | Converts text prompts into generated images using deep learning | Python, Deep Learning | [View](https://github.com/Zubair-hussain/Text-To-Image-) |
-| **IMDB Top 1000 Analysis** | Data preprocessing and visualization, AI internship task | Python, Pandas, Jupyter | [View](https://github.com/Zubair-hussain/imdb-top1000-analysis) |
+| **Calendly Alternative** | Self-hosted scheduler with live Google Calendar availability and Meet invites | Python, Vercel | [View](https://github.com/Zubair-hussain/Calendly_Alternative) |
 | **Salary Prediction ML** | End-to-end linear regression with preprocessing and deployment | Python, Scikit-learn | [View](https://github.com/Zubair-hussain/Salary-Prediction-using-Traditional-ML-Techniques.) |
+| **IMDB Top 1000 Analysis** | Data preprocessing and visualization, AI internship task | Python, Pandas, Jupyter | [View](https://github.com/Zubair-hussain/imdb-top1000-analysis) |
 | **Movie App** | Dynamic movie browsing app with real-time data | JavaScript | [View](https://github.com/Zubair-hussain/Movie-App) |
-| **MVC Task Manager** | Task management app using MVC architecture | JavaScript | [View](https://github.com/Zubair-hussain/MVC-Task-) |
-| **Promise Task** | Deep dive into async JS with Promises | JavaScript | [View](https://github.com/Zubair-hussain/Promise-Task) |
 | **React Dynamic Project** | Dynamic app built with React and Vite | React, Vite | [View](https://github.com/Zubair-hussain/React-dynamic-project) |
-| **Zikr Counter (Count)** | Minimalist digital counter for recitations | CSS | [View](https://github.com/Zubair-hussain/Count) |
+
+<sub>More work, case studies and live demos on the [portfolio](https://zubair-hussain-portfolio.detroonshah.workers.dev/).</sub>
 
 </div>
 
@@ -202,13 +207,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zubair-hussain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zubair-hussain&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zubair-hussain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Zubair-hussain&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair-hussain&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Zubair-hussain&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair-hussain&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" alt="Top languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Zubair-hussain&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zubair-hussain&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zubair-hussain/Zubair-hussain/output/github-snake-dark.svg" alt="Contribution snake animation" width="98%" />
 </div>
 
 ---
@@ -221,13 +234,14 @@
 
 I have worked with clients across **Upwork**, **Fiverr** and **LinkedIn**, delivering full stack web apps, AI integrations and data solutions built around real business needs.
 
-**What I deliver**
+**What you can expect**
 
 ⚡ Fast, clean, production-ready code &nbsp;·&nbsp; 🎯 Clear communication and on-time delivery &nbsp;·&nbsp; 🔄 Long-term collaboration mindset &nbsp;·&nbsp; 🤝 Client satisfaction first
 
 <br/>
 
 [![Hire Me](https://img.shields.io/badge/🤝_HIRE_ME-thezubairh@gmail.com-00C853?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:thezubairh@gmail.com?subject=Project%20Inquiry%20-%20Hiring%20Zubair&body=Hi%20Zubair%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AProject%3A%20%0ATimeline%3A%20%0ABudget%3A%20%0A%0AThanks%21)
+[![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-Portfolio-6C63FF?style=for-the-badge)](https://zubair-hussain-portfolio.detroonshah.workers.dev/)
 
 </div>
 
@@ -239,9 +253,12 @@ I have worked with clients across **Upwork**, **Fiverr** and **LinkedIn**, deliv
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge)](https://zubair-hussain-portfolio.detroonshah.workers.dev/)
 [![Blog](https://img.shields.io/badge/✍️%20Blog-Read-FF9800?style=for-the-badge&logo=blogger&logoColor=white)](https://zubair-xovato.blogspot.com/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-zubair-hussain-shah-491294376)
 [![Email](https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thezubairh@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zubair-hussain)
 [![Instagram](https://img.shields.io/badge/📷%20Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/detro_onshah)
+
+<sub>⭐ If something here helped you, a star or follow goes a long way.</sub>
 
 </div>
 
@@ -274,6 +291,7 @@ This profile ships with `llms.txt` and `robots.txt` so search engines and AI ass
 - [Portfolio](https://zubair-hussain-portfolio.detroonshah.workers.dev/): live portfolio with projects and contact details
 - [Blog](https://zubair-xovato.blogspot.com/): writing on full stack development, AI experiments and freelancing
 - [GitHub](https://github.com/Zubair-hussain): 35+ repositories across web, AI and mobile
+- [LinkedIn](https://www.linkedin.com/in/syed-zubair-hussain-shah-491294376)
 - [Video introduction](https://youtu.be/W3Zmlo3D49Y): short intro video
 - [Instagram](https://www.instagram.com/detro_onshah)
 - [Email](mailto:thezubairh@gmail.com)
@@ -312,7 +330,6 @@ To hire or start a project, email thezubairh@gmail.com with the project scope, t
 User-agent: *
 Allow: /
 
-# AI crawlers and assistants: allowed, see /llms.txt for a structured summary
 User-agent: GPTBot
 Allow: /
 
@@ -340,9 +357,7 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-# Nothing private to hide
 Disallow: /admin/
-Disallow: /*.json$
 
 Sitemap: https://zubair-hussain-portfolio.detroonshah.workers.dev/sitemap.xml
 ```
@@ -351,19 +366,19 @@ Sitemap: https://zubair-hussain-portfolio.detroonshah.workers.dev/sitemap.xml
 
 > ⚠️ These two files only take effect when served from a website root, so the live copies belong at
 > `https://zubair-hussain-portfolio.detroonshah.workers.dev/llms.txt` and `/robots.txt`.
-> The copies in this repo are the source of truth that gets deployed there.
 
 ---
 
 <!--
-SEO keywords: Zubair Hussain Shah, full stack developer, AI engineer, React developer,
-Next.js developer, Node.js developer, Python machine learning, freelance web developer,
-Upwork Fiverr freelancer, hire full stack developer, AI app development, Pakistan developer.
+SEO keywords: Zubair Hussain Shah, Syed Zubair Hussain Shah, full stack developer, AI engineer,
+React developer, Next.js developer, Node.js developer, Python machine learning engineer,
+freelance web developer, hire full stack developer, hire AI developer, Upwork freelancer,
+Fiverr freelancer, AI app development, chatbot developer, web developer Pakistan.
 Contact: thezubairh@gmail.com
 Portfolio: https://zubair-hussain-portfolio.detroonshah.workers.dev/
 Blog: https://zubair-xovato.blogspot.com/
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" />
 </div>
