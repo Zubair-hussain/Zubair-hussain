@@ -204,20 +204,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zubair-hussain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Zubair-hussain&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair-hussain&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" alt="Top languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Zubair-hussain&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zubair-hussain&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Zubair-hussain&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub streak" />
 </div>
 
 <div align="center">
