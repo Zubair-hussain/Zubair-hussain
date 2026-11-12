@@ -11,6 +11,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Zubair-hussain/Zubair-hussain?label=Last%20Updated&style=for-the-badge&color=6C63FF)
 ![Status](https://img.shields.io/badge/Status-Available_for_Hire-00C853?style=for-the-badge)
 
+[![Book a Call](https://img.shields.io/badge/📅_BOOK_A_CALL-Pick_a_Time_%7C_Google_Meet-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly-booking-navy.vercel.app)
+
 ### 👉 [**See my live portfolio**](https://zubair-hussain-portfolio.detroonshah.workers.dev/) &nbsp;·&nbsp; [**Hire me by email**](mailto:thezubairh@gmail.com?subject=Project%20Inquiry%20-%20Hiring%20Zubair&body=Hi%20Zubair%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AProject%3A%20%0ATimeline%3A%20%0ABudget%3A%20%0A%0AThanks%21)
 
 </div>
@@ -39,6 +41,7 @@
 
 ## 🔗 Quick Links
 
+[![Book a Call](https://img.shields.io/badge/📅_BOOK_A_CALL-Pick_a_Time_%7C_Google_Meet-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly-booking-navy.vercel.app)
 [![Hire Me](https://img.shields.io/badge/🤝_HIRE_ME-Let's_Talk-00C853?style=for-the-badge&logoColor=white)](mailto:thezubairh@gmail.com?subject=Project%20Inquiry%20-%20Hiring%20Zubair&body=Hi%20Zubair%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AProject%3A%20%0ATimeline%3A%20%0ABudget%3A%20%0A%0AThanks%21)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge)](https://zubair-hussain-portfolio.detroonshah.workers.dev/)
 [![Blog](https://img.shields.io/badge/✍️_Blog-Read-FF9800?style=for-the-badge&logo=blogger&logoColor=white)](https://zubair-xovato.blogspot.com/)
@@ -90,6 +93,7 @@
 
 **How it works:** &nbsp; 1️⃣ Send your idea &nbsp;→&nbsp; 2️⃣ Get a clear scope and quote &nbsp;→&nbsp; 3️⃣ Regular updates &nbsp;→&nbsp; 4️⃣ Delivery and support
 
+[![Book a Call](https://img.shields.io/badge/📅_BOOK_A_CALL-Pick_a_Time_%7C_Google_Meet-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly-booking-navy.vercel.app)
 [![Start a project](https://img.shields.io/badge/🤝_START_A_PROJECT-Free_Consultation-00C853?style=for-the-badge)](mailto:thezubairh@gmail.com?subject=Project%20Inquiry%20-%20Hiring%20Zubair&body=Hi%20Zubair%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AProject%3A%20%0ATimeline%3A%20%0ABudget%3A%20%0A%0AThanks%21)
 
 </div>
@@ -230,6 +234,7 @@ I have worked with clients across **Upwork**, **Fiverr** and **LinkedIn**, deliv
 
 <br/>
 
+[![Book a Call](https://img.shields.io/badge/📅_BOOK_A_CALL-Pick_a_Time_%7C_Google_Meet-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly-booking-navy.vercel.app)
 [![Hire Me](https://img.shields.io/badge/🤝_HIRE_ME-thezubairh@gmail.com-00C853?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:thezubairh@gmail.com?subject=Project%20Inquiry%20-%20Hiring%20Zubair&body=Hi%20Zubair%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AProject%3A%20%0ATimeline%3A%20%0ABudget%3A%20%0A%0AThanks%21)
 [![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-Portfolio-6C63FF?style=for-the-badge)](https://zubair-hussain-portfolio.detroonshah.workers.dev/)
 
@@ -284,6 +289,7 @@ This profile ships with `llms.txt` and `robots.txt` so search engines and AI ass
 - [LinkedIn](https://www.linkedin.com/in/syed-zubair-hussain-shah-491294376)
 - [Video introduction](https://youtu.be/W3Zmlo3D49Y): short intro video
 - [Instagram](https://www.instagram.com/detro_onshah)
+- [Book a call](https://calendly-booking-navy.vercel.app): schedule a Google Meet call
 - [Email](mailto:thezubairh@gmail.com)
 
 ## Skills
@@ -304,7 +310,7 @@ This profile ships with `llms.txt` and `robots.txt` so search engines and AI ass
 
 ## Hiring
 
-To hire or start a project, email thezubairh@gmail.com with the project scope, timeline and budget.
+To hire or start a project, book a call at https://calendly-booking-navy.vercel.app or email thezubairh@gmail.com with the project scope, timeline and budget.
 ```
 
 </details>
