@@ -121,11 +121,11 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
+- [Flux](https://github.com/Zubair-hussain/Flux) - Free open-source video downloader: save YouTube, TikTok, Instagram, X, LinkedIn, Twitch and Dailymotion videos in original quality up to 4K/8K. Web app, one-command CLI, Chrome extension and MCP server. No account, no DRM bypass. `TypeScript`
 - [Sightline](https://github.com/Zubair-hussain/Sightline) - Free open-source website audit tool: SEO audit, Lighthouse-style scores, Core Web Vitals, accessibility, broken links, hreflang, code coverage, memory leak detection, iOS Safari & Cloudflare checks. Desktop, web, CLI & MCP. `TypeScript`
 - [Core-Breach](https://github.com/Zubair-hussain/Core-Breach) - Free browser FPS built with three.js, GSAP and anime.js. Survive waves of rogue AI cores in a neon city. No install, no asset files. `JavaScript`
 - [leadgen-backend](https://github.com/Zubair-hussain/leadgen-backend) - Open-source AI outreach engine: finds leads daily, writes personal emails with Gemini, sends from your domain within US/EU law, stops on reply. Django + Vercel + Resend. `Python`
 - [Calendly_Alternative](https://github.com/Zubair-hussain/Calendly_Alternative) - Free, open-source, self-hosted Calendly alternative with an interactive clock picker, live Google Calendar availability and automatic Google Meet invites. Python on Vercel. `Rust`
-- [Mime_Duet](https://github.com/Zubair-hussain/Mime_Duet) - No description yet `Python`
 <!--END_SECTION:repos-->
 
 <div align="center">
