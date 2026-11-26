@@ -121,11 +121,11 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
+- [AgentPulse-5G-AI-Agent-Failure-Prediction](https://github.com/Zubair-hussain/AgentPulse-5G-AI-Agent-Failure-Prediction) - AI agent failure prediction: synthetic telemetry dataset, portable CPU model, reproducible benchmarks and live Hugging Face demo. `Python`
 - [trendcast-time-series-forecasting](https://github.com/Zubair-hussain/trendcast-time-series-forecasting) - No description yet `JavaScript`
 - [Flux](https://github.com/Zubair-hussain/Flux) - Free open-source video downloader: save YouTube, TikTok, Instagram, X, LinkedIn, Twitch and Dailymotion videos in original quality up to 4K/8K. Web app, one-command CLI, Chrome extension and MCP server. No account, no DRM bypass. `TypeScript` Stars: 1
 - [Sightline](https://github.com/Zubair-hussain/Sightline) - Free open-source website audit tool: SEO audit, Lighthouse-style scores, Core Web Vitals, accessibility, broken links, hreflang, code coverage, memory leak detection, iOS Safari & Cloudflare checks. Desktop, web, CLI & MCP. `TypeScript`
 - [Core-Breach](https://github.com/Zubair-hussain/Core-Breach) - Free browser FPS built with three.js, GSAP and anime.js. Survive waves of rogue AI cores in a neon city. No install, no asset files. `JavaScript`
-- [leadgen-backend](https://github.com/Zubair-hussain/leadgen-backend) - Open-source AI outreach engine: finds leads daily, writes personal emails with Gemini, sends from your domain within US/EU law, stops on reply. Django + Vercel + Resend. `Python`
 <!--END_SECTION:repos-->
 
 <div align="center">
