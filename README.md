@@ -121,11 +121,11 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
+- [BoroughDrive](https://github.com/Zubair-hussain/BoroughDrive) - NYC fleet simulation with Tesla-inspired 3D navigation, synthetic GPS data, route playback and ETA prediction. `HTML`
 - [AgentPulse-5G-AI-Agent-Failure-Prediction](https://github.com/Zubair-hussain/AgentPulse-5G-AI-Agent-Failure-Prediction) - AI agent failure prediction: synthetic telemetry dataset, portable CPU model, reproducible benchmarks and live Hugging Face demo. `Python`
 - [trendcast-time-series-forecasting](https://github.com/Zubair-hussain/trendcast-time-series-forecasting) - No description yet `JavaScript`
 - [Flux](https://github.com/Zubair-hussain/Flux) - Free open-source video downloader: save YouTube, TikTok, Instagram, X, LinkedIn, Twitch and Dailymotion videos in original quality up to 4K/8K. Web app, one-command CLI, Chrome extension and MCP server. No account, no DRM bypass. `TypeScript` Stars: 1
 - [Sightline](https://github.com/Zubair-hussain/Sightline) - Free open-source website audit tool: SEO audit, Lighthouse-style scores, Core Web Vitals, accessibility, broken links, hreflang, code coverage, memory leak detection, iOS Safari & Cloudflare checks. Desktop, web, CLI & MCP. `TypeScript`
-- [Core-Breach](https://github.com/Zubair-hussain/Core-Breach) - Free browser FPS built with three.js, GSAP and anime.js. Survive waves of rogue AI cores in a neon city. No install, no asset files. `JavaScript`
 <!--END_SECTION:repos-->
 
 <div align="center">
